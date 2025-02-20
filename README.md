@@ -28,5 +28,9 @@ Now your app is running inside Docker! 🚀
 
 
 📜 API Endpoints
+
+
 Method	Endpoint	Description
+
+
 GET	/	Returns "heyheyhye world!"
